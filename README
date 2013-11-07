@@ -28,3 +28,13 @@ git fetch upstream
 # Pulls in changes not present in your local repository, without modifying your files
 
 
+git push origin master
+# Pushes commits to your remote repository stored on GitHub
+
+
+
+
+
+
+
+
